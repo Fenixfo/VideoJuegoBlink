@@ -1,0 +1,9 @@
+sceneSetups:
+<<<<<<< HEAD:Proyecto Blink2/Library/LastSceneManagerSetup.txt
+- path: Assets/ScenesNew/MainMenu.unity
+=======
+- path: Assets/ScenesNew/Level7.unity
+>>>>>>> 664bbe9cf1ab8ad63fabb06432d328dd2a2a6336:Proyecto Blink/Library/LastSceneManagerSetup.txt
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

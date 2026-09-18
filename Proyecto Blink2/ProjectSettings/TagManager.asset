@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grownd
+  - GunLevel1
+  - EnemyTop
+  - EnemyTopBad
+  - EnemyRightBad
+  - EnemyLeftBad
+  - EnemyBottomBad
+  - End
+  - Spawn
+  - Ceiling
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - EnemyLimit
+  - EnemyShock
+  - Hero
+  - Gun
+  - Alert
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgrown
+    uniqueID: 3927857249
+    locked: 0
+  - name: Enemy
+    uniqueID: 3627923339
+    locked: 0
